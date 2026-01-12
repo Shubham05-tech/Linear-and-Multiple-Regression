@@ -1,2 +1,3 @@
-# Linear-and-Multiple-Regression
+# Minor Project
+
 nothing
